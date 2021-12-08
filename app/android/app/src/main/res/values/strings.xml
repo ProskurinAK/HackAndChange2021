@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MHA2021</string>
+    <string name="team_app_logo_name">by Microsofc</string>
+    <string name="app_logo">Открытие|Инвестиции</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="password_repeat_hint">Repeat password</string>
+    <string name="email_hint">your.email@example.com</string>
+    <string name="login_button">Log In</string>
+    <string name="register_button">Register</string>
+    <string name="register_confirm_button">Confirm Registration</string>
+    <string name="or_string">or</string>
+</resources>

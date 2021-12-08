@@ -1,0 +1,8 @@
+port: "8000"
+
+db:
+  username: "frkzjpamnlaecr"
+  host: "ec2-3-220-59-239.compute-1.amazonaws.com"
+  port: "5432"
+  dbname: "db6psalmbnejmo"
+  sslmode: "require"

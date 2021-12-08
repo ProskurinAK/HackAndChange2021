@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="InvestTheme" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@color/ForeGround</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:background">@color/BackGround</item>
+
+    </style>
+
+    <style name= "CustomButton">
+        <item name="android:backgroundTint">@color/Accent</item>
+    </style>
+
+    <style name= "CustomTextView">
+        <item name="android:background">@color/BackGround2</item>
+    </style>
+
+    <style name= "CustomEditText">
+        <item name="android:background">@color/BackGround2</item>
+    </style>
+
+</resources>
